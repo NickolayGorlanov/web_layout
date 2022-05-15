@@ -151,12 +151,12 @@ body {
     background-repeat: no-repeat;
 }
 
-.img_section2 {
+.img-section2 {
     background-image: url("../img/decorate-2.png");
     background-position: right center;
 }
 
-.img_section1 {
+.img-section1 {
     background-image: url("../img/decorate-1.png");
     background-position: right center;
 }
@@ -220,7 +220,8 @@ body {
 }
 
 .title-modules {
-    margin: 25px 0 50px 0;
+    padding-top: 25px;
+    margin: 0 0 50px 0;
     font-size: 60px;
     line-height: 69px;
     color: #3F2AFF;
@@ -256,7 +257,7 @@ body {
     filter: drop-shadow(0px 0px 40px rgba(0, 0, 0, 0.1));
 }
 
-.image-background_1 {
+.image-background-1 {
     width: 572px;
     height: 180px;
     background-image: url(../img/introduction.jpg);
@@ -265,7 +266,7 @@ body {
     display: block;
 }
 
-.image-background_2 {
+.image-background-2 {
     width: 572px;
     height: 180px;
     background-image: url(../img/Base_HTML.jpg);
@@ -274,7 +275,7 @@ body {
     display: block;
 }
 
-.image-background_3 {
+.image-background-3 {
     width: 572px;
     height: 180px;
     background-image: url(../img/Base_CSS.jpg);
@@ -283,7 +284,7 @@ body {
     display: block;
 }
 
-.image-background_4 {
+.image-background-4 {
     width: 572px;
     height: 180px;
     background-image: url(../img/work_layout.jpg);
@@ -293,9 +294,10 @@ body {
 }
 
 .modules-title {
+    margin: 0 auto;
     font-size: 40px;
     line-height: 46px;
-    margin: 25px 0 0 25px;
+    padding: 25px 0 0 25px;
     color: #3f2aff;
 }
 
@@ -312,7 +314,7 @@ body {
     margin-right: 0;
 }
 
-.number_moduls {
+.number-moduls {
     position: absolute;
     width: 45px;
     height: 46px;
@@ -327,7 +329,7 @@ body {
     color: #EAEAEA;
 }
 
-.button_show_more {
+.Frame-7 {
     box-sizing: border-box;
     color: #3F2AFF;
     padding: 25px 76px;
