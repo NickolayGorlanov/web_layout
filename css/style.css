@@ -256,7 +256,39 @@ body {
     filter: drop-shadow(0px 0px 40px rgba(0, 0, 0, 0.1));
 }
 
-.image-background {
+.image-background_1 {
+    width: 572px;
+    height: 180px;
+    background-image: url(../img/introduction.jpg);
+    background-repeat: no-repeat;
+    background-color: transparent;
+    display: block;
+}
+
+.image-background_2 {
+    width: 572px;
+    height: 180px;
+    background-image: url(../img/Base_HTML.jpg);
+    background-repeat: no-repeat;
+    background-color: transparent;
+    display: block;
+}
+
+.image-background_3 {
+    width: 572px;
+    height: 180px;
+    background-image: url(../img/Base_CSS.jpg);
+    background-repeat: no-repeat;
+    background-color: transparent;
+    display: block;
+}
+
+.image-background_4 {
+    width: 572px;
+    height: 180px;
+    background-image: url(../img/work_layout.jpg);
+    background-repeat: no-repeat;
+    background-color: transparent;
     display: block;
 }
 
