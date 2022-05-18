@@ -237,13 +237,6 @@ body {
     color: #3f2aff;
 }
 
-.modules-list {
-    margin: 0;
-    padding: 0;
-    list-style: none;
-    font-size: 0;
-}
-
 .modules-item {
     display: inline-block;
     vertical-align: top;
@@ -320,12 +313,20 @@ body {
 }
 
 .modules-text {
+    margin: 0 auto;
+    padding-left: 25px;
     list-style: none;
-    margin: 2px 25px;
-    /* font-weight: 400; */
+    /* margin: 2px 25px; */
     font-size: 20px;
     line-height: 165%;
     color: #333;
+}
+
+.modules-list {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    font-size: 0;
 }
 
 .modules-item:nth-child(2n) {
