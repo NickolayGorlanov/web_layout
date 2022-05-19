@@ -335,9 +335,7 @@ body {
 
 .number-moduls {
     position: absolute;
-    width: 45px;
-    height: 46px;
-    left: 502px;
+    right: 30px;
     top: 402px;
     font-weight: 400;
     margin-top: 0;
@@ -348,13 +346,17 @@ body {
     color: #EAEAEA;
 }
 
-.Frame-7 {
+.button_more {
     box-sizing: border-box;
     color: #3F2AFF;
     padding: 25px 76px;
     border: 2px solid #3F2AFF;
     margin: 0 auto;
     display: block;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 21px;
+    text-align: center;
     width: 274px;
     height: 70px;
 }
